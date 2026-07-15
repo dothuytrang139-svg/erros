@@ -1,0 +1,6 @@
+{
+  "name": "AotForms Overlay",
+  "description": "Free Fire skeleton-based auto aim-lock overlay tool, designed by Kiều Lương Quân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
